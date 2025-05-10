@@ -1,0 +1,36 @@
+{
+    "clients": [
+        {
+            "client_name": "vikas gour",
+            "total_amount": 5000.0,
+            "amount_paid": 160.0,
+            "amount_due": 4840.0,
+            "due_date": "2025-07-31",
+            "payment_status": "Due"
+        },
+        {
+            "client_name": "Yogendra",
+            "total_amount": 3000.0,
+            "amount_paid": 4000.0,
+            "amount_due": -1000.0,
+            "due_date": "2025-07-31",
+            "payment_status": "Overpaid"
+        },
+        {
+            "client_name": "Akash patidar",
+            "total_amount": 4000,
+            "amount_paid": 0.0,
+            "amount_due": 4000,
+            "due_date": "2025-06-30",
+            "payment_status": "Due"
+        },
+        {
+            "client_name": "Harsh Singhal",
+            "total_amount": 1000,
+            "amount_paid": 0.0,
+            "amount_due": 1000,
+            "due_date": "2025-06-30",
+            "payment_status": "Due"
+        }
+    ]
+}

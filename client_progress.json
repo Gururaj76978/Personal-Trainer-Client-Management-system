@@ -1,0 +1,36 @@
+{
+    "Piyush bansal": [
+        {
+            "date": "2025-04-14",
+            "weight": 50.0,
+            "height": 150.0
+        },
+        {
+            "date": "2025-04-14",
+            "weight": 50.0,
+            "height": 150.0
+        }
+    ],
+    "vikas gour": [
+        {
+            "date": "2024-05-19",
+            "weight": 60.0,
+            "height": 170.0
+        },
+        {
+            "date": "2024-12-19",
+            "weight": 60.0,
+            "height": 170.0
+        },
+        {
+            "date": "2025-04-19",
+            "weight": 70.0,
+            "height": 170.0
+        },
+        {
+            "date": "2025-04-24",
+            "weight": 80.0,
+            "height": 170.0
+        }
+    ]
+}
